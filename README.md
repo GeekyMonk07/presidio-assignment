@@ -34,7 +34,7 @@ npm install
 npm run dev
 The frontend development server should now be running on http://localhost:5173.
 
-Once both the backend and frontend servers are running, you can interact with the platform by visiting http://localhost:3000 in your web browser.
+Once both the backend and frontend servers are running, you can interact with the platform by visiting http://localhost:5173 in your web browser.
 
 Features
 User authentication (signup, login)
